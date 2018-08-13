@@ -1,4 +1,4 @@
-# NueralNetworkClass
+# NeuralNetworkClass
 Class created using tensorflow library intended to initialize and train a neural network
 
 ## Example to use it:
